@@ -22,3 +22,7 @@ INFO:root:info message
 24-02-25:root:ERROR
 24-02-25:root:WARNING
 24-02-25:root:INFO
+26-02-25:root:CRITICAL
+26-02-25:root:ERROR
+26-02-25:root:WARNING
+26-02-25:root:INFO
